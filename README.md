@@ -7,6 +7,7 @@ A simple image editor built with HTML5,CSS and Javascript
 1. Filters-Brightness,Saturation,Inversion,Grayscale,Auto,Sharpness
 2. Rotate and Flip
 3. Individual Dark Mode and Lightmode
+4. Fully Scalable and Responsive
 
 ### Known Issues
 1. Sharpness slider doesnt work
